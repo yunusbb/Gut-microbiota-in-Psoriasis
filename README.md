@@ -11,3 +11,6 @@ This is a repository for scripts which were used to analyse human gut metagenomi
 1. 4_power_analysis_p1.ipynb - get bray pc and metadata
 2. power_analysis_bray_pc_status.ipynb - power analysis based on bray
 3. Power analysis taxonomy psoriasis.ipynb - power analysis old   
+
+### Data
+1. phyloseq-psor-control-metagenome.RData - psq object (not filtered, without normalization)
